@@ -2,6 +2,7 @@
 [xt:Commerce Data Migration Tool](https://d2d-soft.com/30-xtcommerce-migration) is a solution for migrating data to xt:Commerce from another platform. The tool support migrating many entity types (taxes, manufacturers, categories, products, customers, orders, reviews) with many options. The tool can work in the local environment or the online environment. We also provide the [Custom Migration Service](https://d2d-soft.com/migration-services/296-data-migration-customization.html) if you have a specific requirement. 
 
 ## Products
+- [AmeriCommerce to xt:Commerce Migration](https://d2d-soft.com/xtcommerce-migration/788-7265-americommerce-to-xtcommerce-migration-tool.html#/72-entities-1000)
 - [BigCommerce to xt:Commerce Migration](https://d2d-soft.com/xtcommerce-migration/430-1752-bigcommerce-to-xtcommerce-migration-tool.html#/72-entities-1000)
 - [CS-Cart to xt:Commerce Migration](https://d2d-soft.com/xtcommerce-migration/340-1467-cs-cart-to-xtcommerce-migration-tool.html#/72-entities-1000)
 - [CubeCart to xt:Commerce Migration](https://d2d-soft.com/xtcommerce-migration/256-1182-cubecart-to-xtcommerce-migration-tool.html#/72-entities-1000)
@@ -17,6 +18,7 @@
 - [osCommerce to xt:Commerce Migration](https://d2d-soft.com/xtcommerce-migration/260-1202-oscommerce-to-xtcommerce-migration-tool.html#/72-entities-1000)
 - [OXID-eShop to xt:Commerce Migration](https://d2d-soft.com/xtcommerce-migration/261-1207-oxid-eshop-to-xtcommerce-migration-tool.html#/72-entities-1000)
 - [PrestaShop to xt:Commerce Migration](https://d2d-soft.com/xtcommerce-migration/262-1212-prestashop-to-xtcommerce-migration-tool.html#/72-entities-1000)
+- [Salesforce to xt:Commerce Migration](https://d2d-soft.com/xtcommerce-migration/736-6924-salesforce-to-xtcommerce-migration-tool.html#/72-entities-1000)
 - [Shopify to xt:Commerce Migration](https://d2d-soft.com/xtcommerce-migration/392-1567-shopify-to-xtcommerce-migration-tool.html#/72-entities-1000)
 - [VirtueMart to xt:Commerce Migration](https://d2d-soft.com/xtcommerce-migration/263-1217-virtuemart-to-xtcommerce-migration-tool.html#/72-entities-1000)
 - [Volusion to xt:Commerce Migration](https://d2d-soft.com/xtcommerce-migration/658-6110-volusion-to-xtcommerce-migration-tool.html#/72-entities-1000)
@@ -28,6 +30,7 @@
 - [ZenCart to xt:Commerce Migration](https://d2d-soft.com/xtcommerce-migration/268-1242-zencart-to-xtcommerce-migration-tool.html#/72-entities-1000)
 
 ## Supported Platforms
+- [AmeriCommerce](https://www.americommerce.com/)
 - [BigCommerce](https://www.bigcommerce.com/)
 - [CS-Cart](https://www.cs-cart.com/)
 - [CubeCart](https://www.cubecart.com/)
@@ -43,6 +46,7 @@
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
+- [Salesforce](https://www.salesforce.com/)
 - [Shopify](https://www.shopify.com/)
 - [VirtueMart](https://virtuemart.net/)
 - [Volusion](https://volusion.com/)
