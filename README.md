@@ -2,6 +2,7 @@
 [xt:Commerce Data Migration Tool](https://d2d-soft.com/30-xtcommerce-migration) is a solution for migrating data to xt:Commerce from another platform. The tool support migrating many entity types (taxes, manufacturers, categories, products, customers, orders, reviews) with many options. The tool can work in the local environment or the online environment. We also provide the [Custom Migration Service](https://d2d-soft.com/migration-services/296-data-migration-customization.html) if you have a specific requirement. 
 
 ## Products
+- [AbanteCart to xt:Commerce Migration](https://d2d-soft.com/xtcommerce-migration/1142-10880-abantecart-to-xtcommerce-migration-tool.html#/72-entities-1000)
 - [AmeriCommerce to xt:Commerce Migration](https://d2d-soft.com/xtcommerce-migration/788-7265-americommerce-to-xtcommerce-migration-tool.html#/72-entities-1000)
 - [Bagisto to xt:Commerce Migration](https://d2d-soft.com/xtcommerce-migration/954-8973-bagisto-to-xtcommerce-migration-tool.html#/72-entities-1000)
 - [BigCommerce to xt:Commerce Migration](https://d2d-soft.com/xtcommerce-migration/430-1752-bigcommerce-to-xtcommerce-migration-tool.html#/72-entities-1000)
@@ -36,6 +37,7 @@
 - [ZenCart to xt:Commerce Migration](https://d2d-soft.com/xtcommerce-migration/268-1242-zencart-to-xtcommerce-migration-tool.html#/72-entities-1000)
 
 ## Supported Platforms
+- [AbanteCart](https://www.abantecart.com/)
 - [AmeriCommerce](https://www.americommerce.com/)
 - [Bagisto](https://bagisto.com/)
 - [BigCommerce](https://www.bigcommerce.com/)
