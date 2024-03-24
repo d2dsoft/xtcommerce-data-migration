@@ -20,6 +20,7 @@
 - [Magento to xt:Commerce Migration](https://d2d-soft.com/xtcommerce-migration/258-1192-magento-to-xtcommerce-migration-tool.html#/72-entities-1000)
 - [MarketPress to xt:Commerce Migration](https://d2d-soft.com/xtcommerce-migration/584-2472-marketpress-to-xtcommerce-migration-tool.html#/72-entities-1000)
 - [OpenCart to xt:Commerce Migration](https://d2d-soft.com/xtcommerce-migration/259-1197-opencart-to-xtcommerce-migration-tool.html#/72-entities-1000)
+- [osCMax to xt:Commerce Migration](https://d2d-soft.com/xtcommerce-migration/1209-11563-oscmax-to-xtcommerce-migration-tool.html#/72-entities-1000)
 - [osCommerce to xt:Commerce Migration](https://d2d-soft.com/xtcommerce-migration/260-1202-oscommerce-to-xtcommerce-migration-tool.html#/72-entities-1000)
 - [OXID-eShop to xt:Commerce Migration](https://d2d-soft.com/xtcommerce-migration/261-1207-oxid-eshop-to-xtcommerce-migration-tool.html#/72-entities-1000)
 - [PrestaShop to xt:Commerce Migration](https://d2d-soft.com/xtcommerce-migration/262-1212-prestashop-to-xtcommerce-migration-tool.html#/72-entities-1000)
@@ -55,6 +56,7 @@
 - [Magento](https://magento.com/)
 - MarketPress
 - [OpenCart](https://www.opencart.com/)
+- osCMax
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
